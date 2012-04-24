@@ -1,0 +1,3 @@
+this this this this this this file file file file file file file file a a a a a a For your information, this file is going to be huge with a lot of huge numbers added into it. By the time I'm done with it, I hope and pray to the Lord God Almighty of Heaven Above that it doesn't crash my program. I reallt do't want to spend the rest of the night fixing this project. I'd rather pack for the vacation this weekend and work on my resume. Blah blah blah blah blah This is a sample file with a bunch of random words all piled into this file. 678hks what are you doing
+.ghj The name of this file is word.txt. Why do you ask? hmmm..... :) Hopefully this file will work with
+my program and won't crash. OK, here we go!!
